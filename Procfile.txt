@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True 02_production-Noam-Han-Solo.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True 02_production-Noam-Han-Solo-app.ipynb
